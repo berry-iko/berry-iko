@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @berry-iko
+- 👋 Hi, I’m @berry
 - 👀 I’m interested in software
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on group programming project. To be usefull for humanity
